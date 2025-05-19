@@ -1,0 +1,21 @@
+.todo-add-button{
+    position: absolute;
+    padding: 10px 25px;
+    background-color: orange;
+    border-radius: 5px;
+    right: 4px;
+    cursor: pointer;
+    border: none;
+    color: white;
+    font-size: 16px;
+}
+
+.delete-button{
+    padding: 5px 0px;
+    border: none;
+    background-color: red;
+    color: white;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 5px;
+}
